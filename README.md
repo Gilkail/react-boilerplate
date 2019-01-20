@@ -1,2 +1,2 @@
 # react-expensify-app
-React Boilerplater
+React Boilerplate
